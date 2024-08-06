@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I'm currently working on developing my Data Analysis skills in Python (Pandas, Numpy, Matplotlib, Seaborn), SQL, Tableau, and Excel.
+🔭 I'm currently working on developing my Data Analysis/Scientist skills in Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Sci-py), SQL, Tableau, and Excel.
 🌱 I'm currently a sophomore in the Hong Kong University of Science and Technology.
 👯 I'm looking to collaborate on Data Analysis Projects to gain practical skills.
 🤔 I'm looking for help with improving my Python programming and SQL querying abilities.
